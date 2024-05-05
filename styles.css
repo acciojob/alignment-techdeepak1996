@@ -3,6 +3,11 @@ table.middle {
       border-spacing: 1px;
       padding: 1px;
 }
+
+.middle td {
+      border: 1px solid black;
+      padding: 1px;
+}
     .green {
       background-color: green;
     }
